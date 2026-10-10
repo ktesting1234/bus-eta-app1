@@ -1,0 +1,15 @@
+{
+  "name": "香港巴士 ETA 搜尋",
+  "short_name": "巴士ETA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#DC2626",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
